@@ -1,5 +1,11 @@
 # The-Intelligent-Craft--Survival-Evolution
-Uni Project
+Uni Project  -
+
+TO START THE GAME, GO TO /SRC and start Main.java.
+Example :
+open cmd> cd /The-Intelligent-Craft--Survival-Evolution/MyGame/src 
+>>>
+java /Main.java
 
 In this game the player can collect items, sleep to restore health, encounter random events, loot items, craft tools, and gain experience points.
 
